@@ -30,7 +30,7 @@ flowchart LR
 | Työtila | Mitä tekee | Mihin kirjoittaa |
 |---|---|---|
 | **Claude Code omalla koneella** | Viikkokatselmointi, suunnittelu yli elämänalueiden, paperimuistiinpanojen tuonti | Koko repo + `private/` (ei Gitissä) |
-| **Ajastettu pilviagentti** | Esim. arkiaamun tiedonhaku ennen klo 8: hakee uudet tiedot, arvioi ne alueen kriteereillä ja kirjoittaa raportin | Vain oman alueensa kansio |
+| **Ajastettu pilviagentti** | Työnhaun aamuhaku arkisin ennen klo 8: hakee uudet tiedot, arvioi ne alueen kriteereillä ja kirjoittaa raportin | Vain oman alueensa kansio |
 | **Tehtäväkohtainen pilvisessio** | Yksi rajattu tehtävä (esim. valmistelu tapaamiseen) | Vain oman alueensa kansio |
 
 Pilviagenteilla ei ole pääsyä `private/`-kansioon eikä koneen tiedostoihin. Jokaisella agentilla on

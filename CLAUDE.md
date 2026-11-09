@@ -86,4 +86,6 @@ Repo on **ainoa totuuden lähde**. Sitä käyttää kaksi työtilaa (tarkemmin [
 | Työtila | Tehtävä |
 |---|---|
 | **Claude Code omalla koneella** | Viikkokatselmointi, suunnittelu yli elämänalueiden, paperilta tuonti, `private/`. |
-| **Claude Code -pilvisessiot** | Ajastetut agentit (esim. arkiaamun tiedonhaku). Kirjoittavat vain oman alueensa kansioon ja pushaavat itse. |
+| **Claude Code -pilvisessiot** | Ajastettu aamuhaku ja hakemuskohtaiset sessiot työnhaussa. Kirjoittavat vain `alueet/tyo-ura/`-kansioon ja pushaavat itse. |
+
+Pilvisessioiden työohje: [alueet/tyo-ura/tyonhaku/pilvisessio.md](alueet/tyo-ura/tyonhaku/pilvisessio.md).

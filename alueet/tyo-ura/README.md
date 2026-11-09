@@ -18,12 +18,13 @@ Työ, joka tuo energiaa ja jossa pääsee hyödyntämään tekoälyä.
 - **Perhe:** vapaat illat.
 
 ## Nykytila
-Palvelumuotoilun tiiminvetäjä keksityssä Esimerkki Oy:ssä. Ensimmäinen tekoälypilotti käynnistyy joulukuussa.
+Palvelumuotoilun tiiminvetäjä keksityssä Esimerkki Oy:ssä. Ensimmäinen tekoälypilotti käynnistyy joulukuussa. Katsoo samalla valikoiden seuraavaa roolia: [tyonhaku/](tyonhaku/README.md).
 
 ## Käynnissä olevat projektit
 | Projekti | Seuraava askel | Deadline |
 |---|---|---|
 | Tekoälypilotti | Esittely johtoryhmälle | 2026-11-25 |
+| [Työnhaku](tyonhaku/README.md) | Esimerkkikaupungin puhelu, sitten hakemus | 2026-11-16 |
 
 ## Rutiinit
 - Pe: viikon työt suljetaan klo 16

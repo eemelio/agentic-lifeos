@@ -14,6 +14,10 @@
   three priorities and 2–3 focus areas, write next week's plan, commit and push.
 - **Scheduled cloud agents** that run on weekday mornings, research new information against
   criteria written in the repo, and push a report before 8 am.
+- **A job search module** ([alueet/tyo-ura/tyonhaku/](alueet/tyo-ura/tyonhaku/README.md)): the morning agent screens
+  new openings against the criteria, prepares questions for calls with recruiters and drafts applications
+  from a fact bank of confirmed facts (including a list of things *not* to claim). **The person discusses each
+  draft, decides what the application says and stands behind it.** Nothing is sent by the agent.
 - **The repo is the single source of truth.** Every session starts with `git pull`, reads the files
   and writes decisions back as commits. Nothing important lives only in a chat.
 
