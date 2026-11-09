@@ -54,3 +54,11 @@ Rakennettu Claude Codella, Markdown-tiedostoilla ja Gitillä. Tämä on julkinen
 keksityn henkilön testidata; oma versioni on yksityisessä repossa samalla rakenteella.
 
 *Tekijä: Eemeli Ollila*
+
+## License
+
+© 2026 Eemeli Ollila. Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+You may copy, adapt and use this, also commercially, as long as you credit the source, for example:
+*"Based on agentic-lifeos by Eemeli Ollila (github.com/eemelio/agentic-lifeos), CC BY 4.0."*
+
+Vapaasti käytettävissä ja muokattavissa, myös kaupallisesti, kun lähde mainitaan (CC BY 4.0).
