@@ -14,7 +14,8 @@ kerrallaan**, älä kaikkea kerralla.
 
 0. `git pull`, jotta pilviagenttien viikon aikana tekemät muutokset ovat mukana.
    Käy läpi `alueet/tyo-ura/tyonhaku/hakemukset.md`, `ehdotukset.md` ja viikon `aamuhaut/`-raportit:
-   ne kuuluvat Työ / ura -alueen katselmointiin.
+   ne kuuluvat Työ / ura -alueen katselmointiin. Tarkista myös, onko viikon hylkäyksistä palaute pyytämättä
+   tai retro (`alueet/tyo-ura/tyonhaku/retrot/`) tekemättä, ja ehdota ne viikon tehtäviksi.
 1. Selvitä päivämäärä ja ISO-viikot: `date +%G-W%V` (kuluva) ja
    `date -v+7d +%G-W%V` (seuraava, macOS). Jos on maanantai–keskiviikko, katselmoitava viikko on
    todennäköisesti edellinen – varmista Ainolta.

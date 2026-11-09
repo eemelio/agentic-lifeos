@@ -18,5 +18,5 @@
 | Testi Terveys Oy | AI Product Lead | Ei haettu | Päätetty 2026-11-05: vaatii Python-ohjelmointia työkseen (ks. faktapankin rajaukset). |
 | Pohjoinen Data Oy | Head of Design | Ei haettu | Ylin johto, 40 h + matkustus. |
 | Esimerkkiyliopisto | Kehittämispäällikkö | Ei haettu | Lähinnä hallinnollinen. |
-| Kuvitelma Logistics Oy | Service Design Lead | Hylätty | 2026-10. Valittiin logistiikkataustainen. |
+| Kuvitelma Logistics Oy | Service Design Lead | Hylätty | 2026-10. Valittiin logistiikkataustainen. [Retro](retrot/2026-10-30-kuvitelma-logistics-service-design-lead.md). |
 | Demo Media Oy | AI-kehittäjä | Hylätty | Stretch, haettu oppimismielessä. |

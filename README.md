@@ -18,6 +18,9 @@
   new openings against the criteria, prepares questions for calls with recruiters and drafts applications
   from a fact bank of confirmed facts (including a list of things *not* to claim). **The person discusses each
   draft, decides what the application says and stands behind it.** Nothing is sent by the agent.
+- **Inspect and adapt.** When an application does not lead to an offer, the person asks the recruiter for feedback
+  and runs a short retrospective. Each retro ends in at least one concrete change to the search criteria, the fact bank,
+  the writing guidelines or the system itself.
 - **The repo is the single source of truth.** Every session starts with `git pull`, reads the files
   and writes decisions back as commits. Nothing important lives only in a chat.
 

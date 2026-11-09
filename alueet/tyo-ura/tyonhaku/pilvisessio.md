@@ -20,6 +20,7 @@ Repo on ainoa totuuden lähde. Kaikki mikä pitää muistaa, tallennetaan tänne
 | Aino päättää hakea / olla hakematta | rivi [hakemukset.md](hakemukset.md):hen, poista ehdotuksista |
 | Hakemusluonnos | `luonnokset/<tyonantaja>-<tehtava>/hakemus.md` |
 | Puheluvalmistelu | `valmistelu/<tyonantaja>-<tehtava>.md` |
+| Hylkäys | muistuta Ainoa pyytämään palaute; retro `retrot/YYYY-MM-DD-<tyonantaja>-<tehtava>.md` pohjalla; muutos oikeaan tiedostoon |
 | Uusi vahvistettu fakta | [faktapankki.md](faktapankki.md), vain Ainon vahvistamana |
 
 ## Säännöt

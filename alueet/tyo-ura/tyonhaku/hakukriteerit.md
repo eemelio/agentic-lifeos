@@ -19,3 +19,4 @@
 - sopivuus **vahva / hyvä / stretch** ja miksi, suhteessa [faktapankkiin](faktapankki.md)
 - mitä oppisi
 - ⚠️ jos palkka on matala vastuuseen nähden, työ on lähinnä hallinnollista tai vaatii omaa koodausta
+- ⚠️ jos ilmoitus edellyttää toimialakokemusta, jota faktapankissa ei ole (lisätty 2026-10-30 retron perusteella)
