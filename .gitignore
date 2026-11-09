@@ -1,0 +1,8 @@
+# Arkaluonteinen tieto pysyy vain omalla koneella
+private/*
+!private/README.md
+
+# macOS ja editorit
+.DS_Store
+.obsidian/workspace*.json
+.claude/settings.local.json
